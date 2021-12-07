@@ -34,7 +34,7 @@ body {
     left: 0;
     bottom: 0;
     right: 0;
-    background: #EC1C24;
+    background: #34e5a6;
     transform: scale(0);
     transition: 0.5s all ease-in;
     z-index: 1; }
