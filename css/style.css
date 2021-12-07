@@ -117,7 +117,7 @@ body {
             left: 0;
             width: 0;
             bottom: 0;
-            background: #EC1C24;
+            background: #34e5a6;
             transition: 0.5s all ease; }
           .menu_body__item_wrapper .menu_list li a:hover:after {
             width: 100%; }
